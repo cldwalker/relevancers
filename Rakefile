@@ -26,3 +26,4 @@ task :tweets do
   puts "Finished :tweets at #{Time.now}"
 end
 
+Dir['lib/tasks/*.rake'].each {|e| load e }
