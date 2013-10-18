@@ -12,8 +12,6 @@
               xmlUrl="http://feeds.feedburner.com/Clojure/coreBlog" htmlUrl="http://clojure.com/blog/"/>
           <outline text="CraigBlog" title="CraigBlog" type="rss"
               xmlUrl="http://craigandera.blogspot.com/feeds/posts/default" htmlUrl="http://craigandera.blogspot.com/"/>
-          <outline text="crn.io" title="crn.io" type="rss"
-              xmlUrl="http://crn.io/feed/" htmlUrl="http://crn.io"/>
           <outline text="Digital Digressions by Stuart Sierra"
               title="Digital Digressions by Stuart Sierra" type="rss"
               xmlUrl="http://stuartsierra.com/feed" htmlUrl="http://stuartsierra.com"/>
